@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* navigation */
+
+/*home section  */
+
+/* about section */
+
+.box h2{
+    font-size: 38px;
+}
+.box h5{
+    font-size: 20px;
+}
+.box p{
+    font-size: 20px;
+    
+}
+#services .box p1{
+    font-size: 20px;
+    
+}
+
+/* service section */
+
+/* contact section */
+#contact p{
+    font-size: 18px;
+}
+/* form  */
+.form-input{
+    padding: 10px;
+    font-size: 18px;
+}
+/* footer  */

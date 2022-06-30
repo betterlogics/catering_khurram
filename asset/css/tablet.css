@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* navigation */
+#navbar{
+    overflow: hidden;
+}
+
+#right{
+    width: 50%;
+}
+#navbar ul {
+   padding-left: 0px;
+}
+/* home section */
+#home{
+    overflow: hidden;
+}
+#home h1{
+    margin: 10px 20px;
+    margin-top: 480px;
+}
+
+/* about section */
+#services{
+    overflow: hidden;
+}
+#services .box{
+    margin: 80px 10px;
+    margin-bottom: 40px;
+}
+.box h2{
+    font-size: 34px;
+    padding: 10px;
+    padding-right: 30px;
+}
+.box h5{
+    margin: 20px 0;
+    font-size: 20px;
+    padding-right: 50px;
+}
+#services .box img {
+    height: 500px; 
+    padding-top: 85px;
+}
+/* menu section */
+#menu{
+    overflow: hidden;
+    margin-top: 50px;
+}
+#menu .box{
+    width: 50%;
+    margin: 0px;
+}
+#menu .box img{
+    padding-top: 80px;
+    width: 100%;
+}
+/* contact section */
+#contact{
+    overflow: hidden;
+    padding: 120px;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+#contact p{
+    font-size: 18px;
+}
+/* form */
+.form-input{
+    padding: 10px;
+    font-size: 18px;
+}
+/* footer  */
