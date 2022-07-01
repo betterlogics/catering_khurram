@@ -23,17 +23,17 @@
 }
 #home{
     overflow: hidden;
+    margin-top: 150%;
+    
 }
-#home h1{
-    margin-top: 234px;
-    margin-left: 10px;
-}
+
 /* about section */
+
 #services{
     overflow: hidden;
     flex-direction: column;
     width: 100%;
-    margin-top: 50px;
+    margin-top: 30%;
 }
 #services .box{
     margin: 10px 0px;
