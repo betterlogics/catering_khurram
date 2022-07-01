@@ -16,10 +16,12 @@
 /* home section */
 #home{
     overflow: hidden;
+     margin-top: 63%;
+
 }
 #home h1{
     margin: 10px 20px;
-    margin-top: 480px;
+    
 }
 
 /* about section */
